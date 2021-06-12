@@ -1,0 +1,38 @@
+
+        h1{
+            color:honeydew;
+        }
+        h2{
+            color:honeydew;
+        }
+        h3{
+            color:black;
+        }
+        a{
+            color:black;
+        }
+        p{
+            color:honeydew
+        }
+        .header{
+            background-color: black;
+            text-align: center;
+        }
+        .animals{
+            background-color: aqua;
+            display:flex;
+            justify-content:space-around
+        }
+        .lines{
+            background-color:darkturquoise;
+            text-align: center;
+        }
+        .grid{
+            
+            background-color: aquamarine;
+        }
+        .footer{
+            background-color:greenyellow;
+            display:flex;
+            justify-content: flex-end;
+        }
